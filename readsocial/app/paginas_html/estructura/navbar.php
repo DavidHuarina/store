@@ -21,9 +21,9 @@
 
       <nav class="nav-menu">
         <ul>
-          <li class="active"><a href="index.php?page=inicio"><i class="bx bx-home"></i> <span>Inicio</span></a></li>
-          <li><a href="index.php?page=pagina_a"><i class="bx bx-user"></i> <span>Pagina A</span></a></li>
-          <li><a href="index.php?page=pagina_b"><i class="bx bx-file-blank"></i> <span>Pagina B</span></a></li>
+          <li id="inicio"><a href="index.php?page=inicio"><i class="bx bx-home"></i> <span>Inicio</span></a></li>
+          <li id="pagina_a"><a href="index.php?page=pagina_a"><i class="bx bx-user"></i> <span>Pagina A</span></a></li>
+          <li id="pagina_b"><a href="index.php?page=pagina_b"><i class="bx bx-file-blank"></i> <span>Pagina B</span></a></li>
           <!--<li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
           <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>-->

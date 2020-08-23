@@ -16,7 +16,14 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
-
+  <script>
+    $(document).ready(function() {
+      console.log(<?=$_GET['page']?>);
+      if($('#'+'<?=$_GET["page"]?>').length>0){
+        $('#'+'<?=$_GET["page"]?>').addClass("active");
+      } 
+    });
+  </script>
 </body>
 
 </html>
