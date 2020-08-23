@@ -1,2 +1,3 @@
 # store
-sistema de inventarios facturas y ventas
+read_social
+
