@@ -12,7 +12,7 @@
           <h2>Equipo de Trabajo</h2>
           <p class="pl-10 text-muted"><i class="fa fa-user"></i> David Huarina Mendoza (Developer)</p>
           <p class="pl-10 text-muted"><i class="fa fa-user"></i> Alan Gaston Aguilar Carvajal (Developer)</p>
-          <p class="pl-10 text-muted"><i class="fa fa-user"></i> Elio Poma Callisaya (Profesor)</p>
+          <p class="pl-10 text-muted"><i class="fa fa-user"></i> Elio Poma Callisaya (Developer)</p>
         </div>
 
       </div>
