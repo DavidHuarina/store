@@ -9,7 +9,7 @@
 
       <div class="profile">
         <img src="assets/img/images.jpg" alt="" class="img-fluid rounded-circle img-perfil">
-        <h1 class="text-light"><a href="index.php?page=inicio">INFORMA - T</a></h1>
+        <center><h1 class="text-light"><a href="index.php?page=inicio">INFORMA - T</a></h1></center>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

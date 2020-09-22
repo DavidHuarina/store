@@ -8,7 +8,7 @@
           <h2>Tendencia</h2>
           <p>¿QUIERES SABER SI ERES JURADO ELECTORAL?</p>
           <p>Verifica si eres parte del jurado electoral en las elecciones de Octubre de 2020 en la parte de abajo o entrando al siguiente link:</p>
-          <p><a href="https://yoparticipo.oep.org.bo/">YO PARTICIPO - OEP</a></p>
+          <p><a href="https://yoparticipo.oep.org.bo/" target="_blank">YO PARTICIPO - OEP</a></p>
           <br>
           <iframe src="https://yoparticipo.oep.org.bo/" frameborder="0" width="100%" height="400"></iframe>
           
