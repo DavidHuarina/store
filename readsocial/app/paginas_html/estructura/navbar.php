@@ -4,12 +4,12 @@
   <button type="button" class="mobile-nav-toggle d-xl-none"><i class="icofont-navigation-menu"></i></button>
 
   <!-- ======= Header ======= -->
-  <header id="header">
+  <header id="header" class="menu-lateral">
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle img-perfil">
-        <h1 class="text-light"><a href="index.html">Usuario Nombre</a></h1>
+        <img src="assets/img/images.jpg" alt="" class="img-fluid rounded-circle img-perfil">
+        <h1 class="text-light"><a href="index.php?page=inicio">INFORMA - T</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -22,8 +22,9 @@
       <nav class="nav-menu">
         <ul>
           <li id="inicio"><a href="index.php?page=inicio"><i class="bx bx-home"></i> <span>Inicio</span></a></li>
-          <li id="pagina_a"><a href="index.php?page=pagina_a"><i class="bx bx-user"></i> <span>Pagina A</span></a></li>
-          <li id="pagina_b"><a href="index.php?page=pagina_b"><i class="bx bx-file-blank"></i> <span>Pagina B</span></a></li>
+          <li id="sobre_nosotros"><a href="index.php?page=sobre_nosotros"><i class="bx bx-user"></i> <span>Sobre Nosotros</span></a></li>
+          <!--<li id="pagina_a"><a href="index.php?page=pagina_a"><i class="bx bx-user"></i> <span>Pagina A</span></a></li>
+          <li id="pagina_b"><a href="index.php?page=pagina_b"><i class="bx bx-file-blank"></i> <span>Pagina B</span></a></li>-->
           <!--<li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
           <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
           <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>-->

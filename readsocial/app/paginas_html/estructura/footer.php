@@ -1,6 +1,6 @@
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
+  <footer id="footer" class="menu-lateral">
     <div class="container">
       <!--<div class="copyright">
         &copy; Copyright <strong><span>iPortfolio</span></strong>

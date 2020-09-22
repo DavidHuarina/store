@@ -8,9 +8,9 @@ switch ($_GET['page']) {
 	//pagina de usuario
     
      //paginas de prueba
-	case 'pagina_a':
+	case 'sobre_nosotros':
         //require_once "estructura/cool.php";
-	    require_once('perfil/index.php');
+	    require_once('inicio/sobre_nosotros.php');
 	break;
 	case 'pagina_b':
         //require_once "estructura/cool.php";
