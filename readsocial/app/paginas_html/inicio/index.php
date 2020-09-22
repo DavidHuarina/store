@@ -7,7 +7,7 @@
         <div class="section-title">
           <h2>Tendencia</h2>
           <div class="item_section">
-            <h3>Jurados Electorales</h3>
+            <h3>Jurados Electorales <span class="item_section_time"><i class="fa fa-book"></i> 1 d</span></h3>
             <p>¿QUIERES SABER SI ERES JURADO ELECTORAL?</p>
             <p>Verifica si eres parte del jurado electoral en las elecciones de Octubre de 2020 en la parte de abajo o entrando al siguiente enlace:</p>
             <p><a href="https://yoparticipo.oep.org.bo/" target="_blank">YO PARTICIPO - OEP</a></p>

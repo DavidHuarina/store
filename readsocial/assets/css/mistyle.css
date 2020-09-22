@@ -18,6 +18,13 @@
   border-bottom: 1px solid #D9DCD8;
 }
 
+.item_section_time{
+  font-size: 10px;
+  color: #787C77;
+  padding-left:25px;
+  font-family: arial;
+}
+
 
 .pt-1{
   padding-top:20px;
