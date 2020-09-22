@@ -16,6 +16,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/mijs.js"></script>
   <script>
     $(document).ready(function() {
       console.log(<?=$_GET['page']?>);

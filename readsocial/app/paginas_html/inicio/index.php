@@ -6,12 +6,15 @@
 
         <div class="section-title">
           <h2>Tendencia</h2>
-          <p>¿QUIERES SABER SI ERES JURADO ELECTORAL?</p>
-          <p>Verifica si eres parte del jurado electoral en las elecciones de Octubre de 2020 en la parte de abajo o entrando al siguiente link:</p>
-          <p><a href="https://yoparticipo.oep.org.bo/" target="_blank">YO PARTICIPO - OEP</a></p>
-          <br>
-          <iframe src="https://yoparticipo.oep.org.bo/" frameborder="0" width="100%" height="400"></iframe>
-          
+          <div class="item_section">
+            <h3>Jurados Electorales</h3>
+            <p>¿QUIERES SABER SI ERES JURADO ELECTORAL?</p>
+            <p>Verifica si eres parte del jurado electoral en las elecciones de Octubre de 2020 en la parte de abajo o entrando al siguiente enlace:</p>
+            <p><a href="https://yoparticipo.oep.org.bo/" target="_blank">YO PARTICIPO - OEP</a></p>
+            <span class="fuente">https://yoparticipo.oep.org.bo/</span>
+            <br>
+            <iframe src="https://yoparticipo.oep.org.bo/" frameborder="0" width="100%" height="400"></iframe>
+          </div>
         </div>
 
         <!--<div class="row">

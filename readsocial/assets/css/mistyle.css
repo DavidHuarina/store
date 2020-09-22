@@ -1,6 +1,24 @@
 .btn-primary{
 	background: #51C529 !important;
 }
+.section-title h3{
+  font-size: 20px;
+  font-weight: bold;
+  color: #787C77;
+}
+.section-title .fuente{
+  font-size: 10px;
+  color: #787C77;
+  float: right;
+  font-family: arial;
+  /*border-bottom: 1px solid #787C77;*/
+}
+.section-title .item_section{
+  padding-bottom: 24px;
+  border-bottom: 1px solid #D9DCD8;
+}
+
+
 .pt-1{
   padding-top:20px;
 }
