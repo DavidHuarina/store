@@ -6,8 +6,11 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>INFORMA - T</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta property="og:url"           content="http://huarinasoftware.byethost7.com/readsocial/index.php?page=inicio" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="INFORMA T" />
+  <meta property="og:description"   content="Informate sobre los acontecimientos actuales de Bolivia" />
+  <meta property="og:image"         content="http://huarinasoftware.byethost7.com/store/readsocial/assets/img/images.jpg" />
 
   <!-- Favicons -->
   <link href="assets/img/images.jpg" rel="icon">

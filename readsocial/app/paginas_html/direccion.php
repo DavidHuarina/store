@@ -12,9 +12,12 @@ switch ($_GET['page']) {
         //require_once "estructura/cool.php";
 	    require_once('inicio/sobre_nosotros.php');
 	break;
-	case 'pagina_b':
+	case 'login':
         //require_once "estructura/cool.php";
-	    require_once('perfil/lista_usuarios.php');
+	    require_once('perfil/index.php');
+	break;
+	case 'tv':
+	    require_once('tv/'.$_GET['chanel'].'.php');
 	break;
 	//pagina de error
 	default:

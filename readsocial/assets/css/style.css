@@ -12,6 +12,11 @@
 /*COLOR SECUNDARIO #51C529*/
 
 /*--------------------------------------------------------------*/
+._51m-{
+  background:#51C529 !important;
+  z-index: 200;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;

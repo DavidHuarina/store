@@ -1,0 +1,11 @@
+.login-page #back{
+  background: url(../img/plantilla/fondo_llp.jpg) !important;
+  background-size:cover !important;
+}
+.text-white{
+	color:white;
+}
+.float-right{
+	position: absolute;
+    right: 0;
+}

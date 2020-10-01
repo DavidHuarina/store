@@ -2,6 +2,9 @@
 
 
   <!-- Vendor JS Files -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v8.0&appId=242488766758618&autoLogAppEvents=1" nonce="RAPKadOi"></script>
+  <script src="//http://codeorigin.jquery.com/jquery-1.10.2.min.js"></script>
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
